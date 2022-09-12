@@ -15,16 +15,16 @@ function Slide()
                     <input type={"radio"} name="radio-btn" id="radio4"></input>
 
                     <div className="slide first">
-                        <img src={img1}></img>
+                        <img src={img1} alt="alt"></img>
                     </div>
                     <div className="slide">
-                        <img src={img2}></img>
+                        <img src={img2} alt="alt"></img>
                     </div>
                     <div className="slide">
-                        <img src={img3}></img>
+                        <img src={img3} alt="alt"></img>
                     </div>
                     <div className="slide">
-                        <img src={img4}></img>
+                        <img src={img4} alt="alt"></img>
                     </div>
                     <div className="navigation-auto">
                         <div className="auto-btn1"></div>
