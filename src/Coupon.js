@@ -7,9 +7,9 @@ function Coupon()
     return(
         <div className="CouponSection">
             <div className="coupon">
-                <img src={img7}></img>
-                <img src={img8}></img>
-                <img src={img9}></img>
+                <img src={img7} alt="alt"></img>
+                <img src={img8} alt="alt"></img>
+                <img src={img9} alt="alt"></img>
             </div>
         </div>
     );
